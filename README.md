@@ -1,2 +1,2 @@
 # NLP-Hackathon
-This repo contain code written for NLP Hackthon Organised by Parthvi.ai
+This repo contain code written for NLP Hackathon Organised by Parthvi.ai
